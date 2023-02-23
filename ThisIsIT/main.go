@@ -13,3 +13,5 @@ func main() {
 	fmt.Println(hello)
 	fmt.Printf("nomer1: %T nomer2: %v\n", hello, hello)
 }
+
+//
