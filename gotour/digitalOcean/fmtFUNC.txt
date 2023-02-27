@@ -1,1 +1,2 @@
 https://pkg.go.dev/fmt вторая часть сайта
+https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go
