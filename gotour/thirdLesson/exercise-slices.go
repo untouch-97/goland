@@ -14,7 +14,7 @@ func Pic(dx, dy int) [][]uint8 {
 		for x := 0; x < dx; x++ {
 			// Calculate the pixel value using your chosen function
 			// and assign it to the corresponding element of the slice
-			pic[y][x] = uint8(x * y)
+			pic[y][x] = uint8((x + y) / 2) //(x+y)/2, x*y, and x^y
 		}
 	}
 
