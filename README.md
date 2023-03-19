@@ -1,2 +1,2 @@
 # goland
-education  
+education

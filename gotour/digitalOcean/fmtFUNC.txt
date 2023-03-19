@@ -1,0 +1,3 @@
+https://pkg.go.dev/fmt вторая часть сайта
+https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go
+https://www.digitalocean.com/community/tutorials/how-to-define-and-call-functions-in-go-ru
