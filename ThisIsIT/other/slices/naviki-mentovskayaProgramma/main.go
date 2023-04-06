@@ -16,7 +16,7 @@ func main() {
 
 	fmt.Println("---------------------------")
 	cut := intSlice[2:4]
-	fmt.Printf("| intSlice %v, len: %d, cap: %d \n", cut, len(cut), cap(cut))
+	fmt.Printf("| cut %v, len: %d, cap: %d \n", cut, len(cut), cap(cut))
 
 	fmt.Println("---------------------------")
 	cut = cut[:cap(cut)]
